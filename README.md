@@ -1,4 +1,4 @@
-# Translator  Form English to Telugu Using Sequential Learning 
+# Translator  Form English to Telugu Using Sequential   To Sequential Learning 
 
 
 Research Question: 
